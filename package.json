@@ -1,0 +1,24 @@
+{
+  "name": "playontv-server",
+  "version": "0.1.0",
+  "description": "playontv server",
+  "main": "server.js",
+  "author": "Mathieu Pipet",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "babel-preset-es2015": "^6.9.0",
+    "eslint": "^2.11.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.8.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "ip": "^1.1.3",
+    "node-ssdp": "^2.7.1",
+    "range-parser": "^1.2.0",
+    "upnp-mediarenderer-client": "^1.2.3",
+    "webtorrent": "^0.94.3"
+  }
+}
