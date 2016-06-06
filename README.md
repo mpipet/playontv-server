@@ -6,7 +6,7 @@ Installation
 
 Clone from this repository, then
 
-`make config`
+`make build`
 
 you can modify server port number in generated config.js file
 
